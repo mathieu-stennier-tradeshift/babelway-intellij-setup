@@ -1,0 +1,47 @@
+<component name="libraryTable">
+  <library name="deploylib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/opentracing-api-0.31.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/commons-codec-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/opentracing-noop-0.32.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/commons-pool-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/httpclient-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/bcpg-jdk15on-152.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/netty-3.6.5.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/dd-trace-ot-0.25.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/commons-lang-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/jackson-core-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/commons-fileupload-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/httpcore-4.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/opentracing-util-0.31.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/jackson-databind-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/java-jwt-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/opencsv-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/mime-util-2.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/dd-trace-api-0.25.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/xbean.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/saxon8-xpath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/bcpkix-jdk15on-152.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/saxon8-dom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/jets3t-0.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/bcprov-jdk15on-152.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/commons-io-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/json_simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/postgresql-42.2.1.jre7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/slf4j-log4j12-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/commons-cli-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/commons-dbcp-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/saxon8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/commons-compress-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/mail-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/deploylib/common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

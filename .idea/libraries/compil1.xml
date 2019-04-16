@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="compil1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../babelway-smp/lib/compil/tomcat-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-smp/lib/compil/javax.servlet-api-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/deploylib/annotations-2.0.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/axiom-api-1.2.13.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/axiom-impl-1.2.13.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/axis2-adb-1.6.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/axis2-kernel-1.6.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/axis2-transport-http-1.6.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/axis2-transport-local-1.6.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/bcmail-jdk15on-152.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/bcpg-jdk15on-152.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/bcpkix-jdk15on-152.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/bcprov-jdk15on-152.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/common.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/commons-codec-1.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/commons-collections-3.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/commons-httpclient-3.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/commons-lang-2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/commons-logging-1.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/ECGridOSAPIv3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/FastInfoset.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/geronimo-jta_1.1_spec-1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/geronimo-stax-api_1.0_spec-1.0.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/geronimo-ws-metadata_2.0_spec-1.1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/gmbal-api-only.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/ha-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/hamcrest-core-1.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/httpclient-4.4.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/httpcore-4.4.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/httpmime-4.4.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/javax.annotation-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/javax.xml.soap-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jaxb-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jaxb-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jaxb-impl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jaxen-1.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jaxws-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jaxws-rt.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jsr181-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jul-to-slf4j-1.7.10.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/juli-6.0.16.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/log4j-1.2.17.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/management-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/mimepull.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/neethi-3.0.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/netty-3.6.5.Final.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/policy.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/postgresql-42.2.1.jre7.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/saaj-impl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/saxon8-dom.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/saxon8-xpath.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/saxon8.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/stax-ex.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/stax2-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/streambuffer.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/tribes-6.0.16.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/winbooks-dep-client.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/woodstox-core-asl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/wsdl4j-1.6.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/wstx-asl-3.2.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/xalan-2.7.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/xbean.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/xml-resolver-1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/xmlbeans-2.3.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/XmlSchema-1.4.7.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/compil/servlet-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jersey-core-1.19.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jersey-server-1.19.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jersey-servlet-1.19.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jsr311-api-1.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/json_simple-1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/oauth-client-1.19.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/oauth-signature-1.19.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jersey-apache-client-1.19.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jersey-client-1.19.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/difi-client.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/fluent-hc-4.5.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/joda-time-2.9.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/mime-util-2.1.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/peppol-commons-4.3.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/peppol-sml-client-4.3.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/peppol-smp-client-4.3.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/ph-commons-6.2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/ph-datetime-4.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/ph-masterdata-4.1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/ph-settings-2.0.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/ph-web-7.1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/slf4j-api-1.7.12.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/slf4j-log4j12-1.7.12.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/validation-api-1.1.0.Final.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/ph-sbdh-2.0.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/peppol-sbdh-4.3.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/ph-jaxb-6.2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/commons-configuration-1.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/commons-jxpath-1.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/commons-lang-2.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/dk.gov.oiosi.library-2.0.1.DEV.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/openuddi-client-1.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/commons-pool-1.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/compil/mockito-all-1.9.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/compil/javax.json-1.0.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/signpost-commonshttp4-1.2.1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/signpost-core-1.2.1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/commons-io-2.0.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/commons-cli-1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jets3t-0.9.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/config-1.3.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/commons-certvalidator-2.2.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/pkix-ocsp-0.9.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/dnsjava-2.1.8.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/commons-bdx-0.9.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/commons-busdox-0.9.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/oxalis-commons-4.0.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/peppol-sbdh-1.0.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/wss4j-policy-2.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/wss4j-ws-security-common-2.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/commons-sbdh-0.9.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/wss4j-ws-security-dom-2.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/xmlsec-2.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/wss4j-bindings-2.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/wss4j-ws-security-stax-2.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/test/testng-6.12.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jackson-annotations-2.9.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jackson-core-2.9.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jackson-databind-2.9.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/jersey-apache-client4-1.19.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/e_conomic.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/commons-dbcp-1.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/gson-2.2.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/activation-1.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/mail-1.6.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/guava-27.0.1-jre.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/peppol-common-1.1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/peppol-evidence-1.0.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/peppol-lookup-1.1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/peppol-mode-1.1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/peppol-security-1.1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/deploylib/netsuite-dep-client.jar!/" />
+    <conelement value="org.testng.TESTNG_CONTAINER" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src/java" expected_position="0" />
+      <src_folder value="file://$MODULE_DIR$/src/conf" expected_position="1" />
+      <src_folder value="file://$MODULE_DIR$/src/test" expected_position="2" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/build/eclipse" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/conf" type="java-resource" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/lib/test" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/lib/test" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/lib/test" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/deploylib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/deploylib" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/deploylib" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/deploylib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib/compil" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/lib/compil" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../babelway-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../babelway-edireaderplugin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../babelway-externalapps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../babelway-gatewayas2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../babelway-gatewayftplet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../babelway-gatewayoftp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../babelway-gatewaysftp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../babelway-gatewaystore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../babelway-gatewayws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../babelway-infra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../babelway-messagingengine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../babelway-messaginghistory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+</project>

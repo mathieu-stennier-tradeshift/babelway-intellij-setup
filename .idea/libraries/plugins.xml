@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../babelway-smp/lib/compil/jaxws-ri/lib/plugins/sdo-eclipselink-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-smp/lib/compil/jaxws-ri/lib/plugins/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-smp/lib/compil/jaxws-ri/lib/plugins/commonj.sdo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-smp/lib/compil/jaxws-ri/lib/plugins/jaxws-eclipselink-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-smp/lib/compil/jaxws-ri/lib/plugins/eclipselink.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-smp/lib/compil/jaxws-ri/lib/plugins/mail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

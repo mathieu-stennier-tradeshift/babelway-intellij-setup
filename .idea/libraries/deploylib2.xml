@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="deploylib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../babelway-edireaderplugin/deploylib/commons-lang-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-edireaderplugin/deploylib/edireader-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-edireaderplugin/deploylib/bcmail-jdk15on-152.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-edireaderplugin/deploylib/mail-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-edireaderplugin/deploylib/slf4j-log4j12-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-edireaderplugin/deploylib/bcprov-jdk15on-152.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-edireaderplugin/deploylib/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-edireaderplugin/deploylib/opencsv-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-edireaderplugin/deploylib/bcpkix-jdk15on-152.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-edireaderplugin/deploylib/edireader-4.7.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-edireaderplugin/deploylib/common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-edireaderplugin/deploylib/bcpg-jdk15on-152.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-edireaderplugin/deploylib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-edireaderplugin/deploylib/slf4j-api-1.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="compil3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../babelway-gatewaysftp/lib/compil/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-gatewaysftp/lib/compil/jsch-0.1.42.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-gatewaysftp/lib/compil/jzlib-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

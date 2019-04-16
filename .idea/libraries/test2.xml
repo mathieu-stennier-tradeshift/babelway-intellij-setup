@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="test2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../babelway-edireaderplugin/lib/test/jcommander-1.72.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-edireaderplugin/lib/test/testng-6.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

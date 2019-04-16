@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="deploylib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../babelway-monitoring/deploylib/mail-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-monitoring/deploylib/rrd4j-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-monitoring/deploylib/jstl-impl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-monitoring/deploylib/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-monitoring/deploylib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-monitoring/deploylib/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-monitoring/deploylib/jstl-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-monitoring/deploylib/slf4j-log4j12-1.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

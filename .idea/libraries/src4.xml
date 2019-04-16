@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="src4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../babelway-gatewaymailet/lib/src/common-src.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-gatewaymailet/lib/src/apache-james-2.3.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-gatewaymailet/lib/src/mail-1.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

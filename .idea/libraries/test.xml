@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="test">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/test/testng-6.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/test/jcommander-1.72.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-messaginghistory/lib/test/mockito-all-1.9.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="test7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../babelway-gatewaymailet/lib/test/testng-6.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../babelway-gatewaymailet/lib/test/jcommander-1.72.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

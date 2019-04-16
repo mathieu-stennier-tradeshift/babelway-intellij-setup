@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../babelway-common/babelway-common.iml" filepath="$PROJECT_DIR$/../babelway-common/babelway-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../babelway-edireaderplugin/babelway-edireaderplugin.iml" filepath="$PROJECT_DIR$/../babelway-edireaderplugin/babelway-edireaderplugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../babelway-externalapps/babelway-externalapps.iml" filepath="$PROJECT_DIR$/../babelway-externalapps/babelway-externalapps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../babelway-gatewayas2/babelway-gatewayas2.iml" filepath="$PROJECT_DIR$/../babelway-gatewayas2/babelway-gatewayas2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../babelway-gatewayftplet/babelway-gatewayftplet.iml" filepath="$PROJECT_DIR$/../babelway-gatewayftplet/babelway-gatewayftplet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../babelway-gatewaymailet/babelway-gatewaymailet.iml" filepath="$PROJECT_DIR$/../babelway-gatewaymailet/babelway-gatewaymailet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../babelway-gatewayoftp/babelway-gatewayoftp.iml" filepath="$PROJECT_DIR$/../babelway-gatewayoftp/babelway-gatewayoftp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../babelway-gatewaysap/babelway-gatewaysap.iml" filepath="$PROJECT_DIR$/../babelway-gatewaysap/babelway-gatewaysap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../babelway-gatewaysftp/babelway-gatewaysftp.iml" filepath="$PROJECT_DIR$/../babelway-gatewaysftp/babelway-gatewaysftp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../babelway-gatewaystore/babelway-gatewaystore.iml" filepath="$PROJECT_DIR$/../babelway-gatewaystore/babelway-gatewaystore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../babelway-gatewayws/babelway-gatewayws.iml" filepath="$PROJECT_DIR$/../babelway-gatewayws/babelway-gatewayws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../babelway-infra/babelway-infra.iml" filepath="$PROJECT_DIR$/../babelway-infra/babelway-infra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../babelway-messagingengine/babelway-messagingengine.iml" filepath="$PROJECT_DIR$/../babelway-messagingengine/babelway-messagingengine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../babelway-messaginghistory/babelway-messaginghistory.iml" filepath="$PROJECT_DIR$/../babelway-messaginghistory/babelway-messaginghistory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../babelway-monitoring/babelway-monitoring.iml" filepath="$PROJECT_DIR$/../babelway-monitoring/babelway-monitoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babelway-selfservice3.iml" filepath="$PROJECT_DIR$/babelway-selfservice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../babelway-smp/babelway-smp.iml" filepath="$PROJECT_DIR$/../babelway-smp/babelway-smp.iml" />
+    </modules>
+  </component>
+</project>

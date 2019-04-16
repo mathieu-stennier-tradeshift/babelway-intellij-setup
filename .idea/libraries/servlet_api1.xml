@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="servlet-api1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../babelway-gatewayoftp/lib/compil/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
