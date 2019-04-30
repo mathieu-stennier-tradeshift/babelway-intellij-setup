@@ -188,5 +188,6 @@
         <jarDirectory url="file://$MODULE_DIR$/lib/compil" recursive="false" />
       </library>
     </orderEntry>
+    <orderEntry type="module" module-name="babelway-common" scope="RUNTIME" />
   </component>
 </module>
